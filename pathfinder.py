@@ -1,4 +1,4 @@
-from PIL import ImageColor
+from PIL import I
 
 def get_data(file):
     data =[]
